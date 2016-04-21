@@ -8,11 +8,9 @@
 **E-Posta** goktay.bocek@vidagarage.com
 
 **Doğum Tarihi   :**04.06.1992  
-**Doğum Yeri	  :**	İstanbul / Fatih
-  
-**Uyruğu	  :**	T.C.
-
-**Medeni Hali  	  :**	Bekar 
+**Doğum Yeri	  :**	İstanbul / Fatih  
+**Uyruğu	  :**	T.C.  
+**Medeni Hali  	  :**	Bekar
 
 **Eğitim Durumu :**	
 
